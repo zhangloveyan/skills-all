@@ -1,0 +1,7 @@
+# Secrets
+config.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo

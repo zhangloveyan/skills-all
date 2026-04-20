@@ -1,0 +1,8 @@
+{
+  "appId": "cli_xxx",
+  "appSecret": "xxx",
+  "app_token": "xxx",
+  "table_id": "xxx",
+  "status_field": "处理状态",
+  "title_field": "摘要"
+}
