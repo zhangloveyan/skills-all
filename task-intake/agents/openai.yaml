@@ -1,0 +1,4 @@
+interface:
+  display_name: "任务接入"
+  short_description: "把简单自然语言描述整理为低消耗、两阶段确认、范围清晰的可执行任务"
+  default_prompt: "Use $task-intake to structure my short request, estimate scope and cost, and guide the two-stage confirmation workflow."

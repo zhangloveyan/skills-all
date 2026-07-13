@@ -1,0 +1,7 @@
+interface:
+  display_name: "任务交接"
+  short_description: "自动整理长任务状态并生成可直接创建新任务的精简交接包"
+  default_prompt: "Use $task-handoff to generate a compact handoff and prepare the next task."
+
+policy:
+  allow_implicit_invocation: true
